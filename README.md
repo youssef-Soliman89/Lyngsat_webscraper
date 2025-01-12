@@ -9,6 +9,13 @@ This project is a comprehensive web scraper designed to gather, process, and dis
 - **Data Manipulation**: Cleans and processes the data to enhance its usability and integrity.
 - **Django Web Application**: Hosts a local website where users can browse, search, and filter the stored data.
 
+## Database Design
+
+The database design follows an entity-relationship model to ensure clarity and scalability.
+
+![Database Design Schema](BreadcrumbsLyngsat_webscrape/SQL
+/Screenshot 2025-01-11 191341.png)
+
 ## Technologies Used
 
 - **Python**: For building the scraper and backend logic.
