@@ -12,8 +12,8 @@ This project is a comprehensive web scraper designed to gather, process, and dis
 ## Database Design
 
 The database design follows an entity-relationship model to ensure clarity and scalability. The Database has multiple tables such as:
--channels table
--networks table
+- **channels table**
+-**networks table**
 -satellite_channels table
 -satellite_networks table
 -satellites table
