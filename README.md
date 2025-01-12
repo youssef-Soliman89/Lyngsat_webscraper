@@ -29,3 +29,6 @@ The database design follows an entity-relationship model to ensure clarity and s
 - **BeautifulSoup / Scrapy**: For parsing and extracting HTML data.
 - **MySQL**: Database to store and manage the scraped data.
 - **Django**: Framework for creating the local website to display the data.
+
+## Website link: [LyngSat](https://www.lyngsat.com/)
+
