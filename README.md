@@ -13,8 +13,6 @@ This project is a comprehensive web scraper designed to gather, process, and dis
 
 The database design follows an entity-relationship model to ensure clarity and scalability.
 
-![Database Design Schema](BreadcrumbsLyngsat_webscrape/SQL
-/Screenshot 2025-01-11 191341.png)
 
 ## Technologies Used
 
