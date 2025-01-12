@@ -1,4 +1,5 @@
-[#LyngSat Webscraper](https://www.lyngsat.com/)
+[**LyngSat Webscraper**](https://www.lyngsat.com/)
+
 
 This project is a comprehensive web scraper designed to gather, process, and display information from the Lyngsat website. The data is extracted, stored in a MySQL database, and presented through a user-friendly local website built with Django. The website enables users to preview and filter the information efficiently.
 
